@@ -1,0 +1,6 @@
+===Introduction===
+This is an emulation of a shell. It's like a unix/gnu-linux shell and has some functions of it. It's only a fun prodject, nothing special. It's not a true shell, just an emulation.
+===License===
+The license of the project is the GPL version 3. For more information and the whole text of the license see the file "GPLv3".
+===Project-Structure===
+In the directory "src" is the whole source of the project. The directory "bin" contains the compilied files of the project. The directory "res" contains other resources of the project.

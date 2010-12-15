@@ -1,0 +1,7 @@
+===The command manual===
+The following commands are still implimented in MyShell:
+===Command-List===
+==System==
+-EXIT: shut down the system
+==Configuration==
+-CONFIG: configuration of the current dir, the current user and the current system-name.
