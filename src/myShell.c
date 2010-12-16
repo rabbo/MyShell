@@ -54,4 +54,10 @@ int configIn(){
   scanf("%s",client);
   printf("Please type in the new dir:");
   scanf("%s",dir);
+  printf("New config was created.\n");
+}
+
+int changeDir(char pdirC[]){
+  strcpy(dir,pdirC);
+  printf("Dir was changed to %s \n",dir);
 }
