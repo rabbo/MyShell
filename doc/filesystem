@@ -1,0 +1,23 @@
+===Filesystem===
+This documentation give a overview of the filesystem.
+==Structure==
+This is the structure of the filesystem:
+
+/
+|
+|-kernel---boot
+|
+|-home
+|
+|-programs
+|
+|-libs
+|
+|-docs
+|
+|-backup
+
+
+
+!!!WARNING!!!
+This is only an idea of the filesystem, its not yet implemented and still in development!
