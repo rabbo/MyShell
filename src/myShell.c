@@ -27,8 +27,8 @@ int main()
                 promt();
                 scanf("%s",ein);
 		strcpy(eingabe, ein);
-		if(strcmp(eingabe,"EXIT")==0) end=TRUE;
-		else if(strcmp(eingabe,"CONFIG")==0) configIn();
+		if(strcmp(eingabe,"exit")==0) end=TRUE;
+		else if(strcmp(eingabe,"config")==0) configIn();
 		else printf("You write %s\n",eingabe);
         }
         
